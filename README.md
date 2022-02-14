@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @makyuzmert
+- 👀 I’m interested in econometrics, Python, STATA
+- 🌱 I’m currently learning machine learning algorithms.
+- 📫 How to reach me makyuzmert@gmail.com
