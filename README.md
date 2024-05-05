@@ -2,7 +2,7 @@
 - 👀 I’m interested in econometrics, statistics, Python, STATA
 - 🌱 I’m currently learning machine learning algorithms.
 - 📫 How to reach me 
-1) email: makyuzmert@gmail.com, makyuz@ybu.edu.tr
+1) email: makyuzmert@gmail.com, makyuz@aybu.edu.tr
 2) LinkedIn: https://www.linkedin.com/in/mert-akyuz-734696201
 3) Researchgate: https://www.researchgate.net/profile/Mert_Akyuz
 4) Publons: https://publons.com/researcher/3044243/mert-akyuz
