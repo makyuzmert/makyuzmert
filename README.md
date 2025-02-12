@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Akyuz
-- 👀 I’m interested in econometrics, statistics, Python, STATA
-- 🌱 I’m currently learning machine learning algorithms.
+- 👀 I’m interested in econometrics, statistics, machine learning.
+- 🌱 I’m currently using STATA, Python, Eviews, Gauss, and OxMetrics .
 - 📫 How to reach me 
 1) email: makyuzmert@gmail.com, makyuz@aybu.edu.tr
 2) LinkedIn: https://www.linkedin.com/in/mert-akyuz-734696201
